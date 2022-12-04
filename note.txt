@@ -15,3 +15,7 @@ git comfig --global user.email "Your email"
 - git push : Đẩy tất cả commit lên trên remote repository
 
 -git lone : tải remote repository về máy tính
+
+-git checkout: chuyển sang một branch (nhánh) khác
+  + git checkout branch-name : Chuyển branch  
+  + git checkout -b branch-name: tạo branch
