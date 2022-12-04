@@ -1,4 +1,9 @@
 .title {
-    color: red;
+    color: red  ;
     
+}
+.content{
+   display: flex;
+   flex-flow: column;
+
 }
